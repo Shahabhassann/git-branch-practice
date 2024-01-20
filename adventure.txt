@@ -1,1 +1,4 @@
-i hate vim   
+i hate vim  
+socrates
+joan of arc
+abraham lincoln 
